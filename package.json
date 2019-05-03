@@ -1,0 +1,29 @@
+{
+  "name": "@kofno/stack-ts",
+  "version": "0.0.0-development",
+  "description": "Typescript based immutable stack",
+  "main": "index.js",
+  "repository": "https://github.com/kofno/stack-ts",
+  "author": "Ryan L. Bell <ryan.l.bell@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit",
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "maybeasy": "^2.5.0",
+    "prettier": "^1.17.0",
+    "semantic-release": "^15.13.3",
+    "typescript": "^3.4.5"
+  },
+  "peerDependencies": {
+    "maybeasy": "^2.5.0"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "trailingComma": "es5",
+    "singleQuote": true
+  }
+}
