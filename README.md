@@ -15,4 +15,4 @@ Compatible with Maybeasy.
 > yarn add @kofno/stack-ts
 ```
 
-### [API](docs/index.md)
+### [API](docs/api/index.md)
