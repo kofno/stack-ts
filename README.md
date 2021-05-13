@@ -1,3 +1,6 @@
+# Moved
+This project is now maintained at [festive-possum](https://github.com/kofno/festive-possum/tree/main/packages/stack-ts)
+
 # Stack
 
 [![Build Status](https://travis-ci.org/kofno/stack-ts.svg?branch=master)](https://travis-ci.org/kofno/stack-ts)
